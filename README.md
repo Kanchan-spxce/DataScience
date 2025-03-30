@@ -1,4 +1,4 @@
-# DataScience
+# Video Games Sale Analysis
 
 About this dataset
 
